@@ -15,92 +15,90 @@ sites:
   url: https://wikipedia.org
 - name: Proton
   url: https://proton.me
-- name: Google
-  url: https://google.com
-- name: YouTube
-  url: https://youtube.com
-- name: Amazon
-  url: https://amazon.com
-- name: Facebook
-  url: https://facebook.com
-- name: Twitter (X)
-  url: https://twitter.com
-- name: Instagram
-  url: https://instagram.com
-- name: Reddit
-  url: https://reddit.com
-- name: LinkedIn
-  url: https://linkedin.com
-- name: Netflix
-  url: https://netflix.com
-- name: GitHub
-  url: https://github.com
-- name: Stack Overflow
-  url: https://stackoverflow.com
-- name: Quora
-  url: https://quora.com
-- name: Pinterest
-  url: https://pinterest.com
-- name: Yahoo
-  url: https://yahoo.com
-- name: Bing
-  url: https://bing.com
-- name: eBay
-  url: https://ebay.com
-- name: Zoom
-  url: https://zoom.us
-- name: Dropbox
-  url: https://dropbox.com
-- name: Spotify
-  url: https://spotify.com
-- name: Microsoft
-  url: https://microsoft.com
-- name: Apple
-  url: https://apple.com
-- name: Adobe
-  url: https://adobe.com
-- name: Coursera
-  url: https://coursera.org
 - name: Khan Academy
   url: https://khanacademy.org
-- name: Twitch
-  url: https://twitch.tv
-- name: Discord
-  url: https://discord.com
-- name: Canva
-  url: https://canva.com
-- name: Udemy
-  url: https://udemy.com
-- name: Duolingo
-  url: https://duolingo.com
-- name: Shopify
-  url: https://shopify.com
+- name: TED
+  url: https://ted.com
 - name: Wikimedia Commons
   url: https://commons.wikimedia.org
-- name: BBC
-  url: https://bbc.com
-- name: The New York Times
-  url: https://nytimes.com
-- name: National Geographic
-  url: https://nationalgeographic.com
+- name: NPR
+  url: https://npr.org
+- name: National Geographic Society
+  url: https://nationalgeographic.org
 - name: Smithsonian
   url: https://si.edu
-- name: IMDb
-  url: https://imdb.com
-- name: Hacker News
-  url: https://news.ycombinator.com
-- name: Lifehacker
-  url: https://lifehacker.com
-- name: MakeUseOf
-  url: https://makeuseof.com
-- name: How-To Geek
-  url: https://howtogeek.com
-- name: GitLab
-  url: https://gitlab.com
-- name: Zoho
-  url: https://zoho.com
-- name: WordPress
-  url: https://wordpress.org
+- name: Creative Commons
+  url: https://creativecommons.org
+- name: OpenStreetMap
+  url: https://openstreetmap.org
+- name: World Health Organization
+  url: https://who.int
+- name: UNICEF
+  url: https://unicef.org
+- name: Médecins Sans Frontières (Doctors Without Borders)
+  url: https://msf.org
+- name: Amnesty International
+  url: https://amnesty.org
+- name: Greenpeace
+  url: https://greenpeace.org
+- name: Wikimedia Foundation
+  url: https://wikimediafoundation.org
+- name: Open Knowledge Foundation
+  url: https://okfn.org
+- name: Internet Society
+  url: https://internetsociety.org
+- name: EFF (Electronic Frontier Foundation)
+  url: https://eff.org
+- name: FSF (Free Software Foundation)
+  url: https://fsf.org
+- name: Tor Project
+  url: https://torproject.org
+- name: Python Software Foundation
+  url: https://python.org
+- name: Apache Software Foundation
+  url: https://apache.org
+- name: Linux Foundation
+  url: https://linuxfoundation.org
+- name: Blender Foundation
+  url: https://blender.org
+- name: Code.org
+  url: https://code.org
+- name: World Wildlife Fund
+  url: https://worldwildlife.org
+- name: Project Gutenberg
+  url: https://gutenberg.org
+- name: Open Culture
+  url: https://openculture.com
+- name: ArXiv
+  url: https://arxiv.org
+- name: PLOS (Public Library of Science)
+  url: https://plos.org
+- name: DOAJ (Directory of Open Access Journals)
+  url: https://doaj.org
+- name: JSTOR (Nonprofit Access)
+  url: https://jstor.org
+- name: Wikimedia Outreach
+  url: https://outreach.wikimedia.org
+- name: Wikibooks
+  url: https://wikibooks.org
+- name: Wikiversity
+  url: https://wikiversity.org
+- name: Wikinews
+  url: https://wikinews.org
+- name: Wikiquote
+  url: https://wikiquote.org
+- name: Wikispecies
+  url: https://species.wikimedia.org
+- name: Wikivoyage
+  url: https://wikivoyage.org
+- name: Charity Navigator
+  url: https://charitynavigator.org
+- name: GuideStar
+  url: https://guidestar.org
+- name: Open Data Institute
+  url: https://theodi.org
+- name: Internet Governance Forum
+  url: https://intgovforum.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
