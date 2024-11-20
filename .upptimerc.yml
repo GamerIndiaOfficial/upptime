@@ -25,16 +25,12 @@ sites:
   url: https://npr.org
 - name: National Geographic Society
   url: https://nationalgeographic.org
-- name: Smithsonian
-  url: https://si.edu
 - name: Creative Commons
   url: https://creativecommons.org
 - name: OpenStreetMap
   url: https://openstreetmap.org
 - name: World Health Organization
   url: https://who.int
-- name: UNICEF
-  url: https://unicef.org
 - name: Médecins Sans Frontières (Doctors Without Borders)
   url: https://msf.org
 - name: Amnesty International
@@ -63,8 +59,6 @@ sites:
   url: https://blender.org
 - name: Code.org
   url: https://code.org
-- name: World Wildlife Fund
-  url: https://worldwildlife.org
 - name: Project Gutenberg
   url: https://gutenberg.org
 - name: Open Culture
