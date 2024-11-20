@@ -58,14 +58,10 @@ sites:- name: Projects-of-Dream
   url: https://apple.com
 - name: Adobe
   url: https://adobe.com
-- name: Medium
-  url: https://medium.com
 - name: Coursera
   url: https://coursera.org
 - name: Khan Academy
   url: https://khanacademy.org
-- name: TED
-  url: https://ted.com
 - name: Twitch
   url: https://twitch.tv
 - name: Discord
@@ -84,38 +80,14 @@ sites:- name: Projects-of-Dream
   url: https://bbc.com
 - name: The New York Times
   url: https://nytimes.com
-- name: NPR
-  url: https://npr.org
-- name: Bloomberg
-  url: https://bloomberg.com
-- name: The Guardian
-  url: https://theguardian.com
-- name: Reuters
-  url: https://reuters.com
 - name: National Geographic
   url: https://nationalgeographic.com
 - name: Smithsonian
   url: https://si.edu
 - name: IMDb
   url: https://imdb.com
-- name: Rotten Tomatoes
-  url: https://rottentomatoes.com
-- name: Goodreads
-  url: https://goodreads.com
-- name: Pocket
-  url: https://getpocket.com
 - name: Hacker News
   url: https://news.ycombinator.com
-- name: Ars Technica
-  url: https://arstechnica.com
-- name: WIRED
-  url: https://wired.com
-- name: Verge
-  url: https://theverge.com
-- name: Slashdot
-  url: https://slashdot.org
-- name: Engadget
-  url: https://engadget.com
 - name: Lifehacker
   url: https://lifehacker.com
 - name: MakeUseOf
@@ -126,55 +98,12 @@ sites:- name: Projects-of-Dream
   url: https://stackexchange.com
 - name: ScienceDirect
   url: https://sciencedirect.com
-- name: Springer
-  url: https://springer.com
-- name: JSTOR
-  url: https://jstor.org
-- name: Elsevier
-  url: https://elsevier.com
-- name: PubMed
-  url: https://pubmed.ncbi.nlm.nih.gov
 - name: GitLab
   url: https://gitlab.com
-- name: Bitbucket
-  url: https://bitbucket.org
-- name: Trello
-  url: https://trello.com
-- name: Notion
-  url: https://notion.so
-- name: Evernote
-  url: https://evernote.com
 - name: Zoho
   url: https://zoho.com
-- name: Asana
-  url: https://asana.com
-- name: Monday.com
-  url: https://monday.com
-- name: Slack
-  url: https://slack.com
-- name: Basecamp
-  url: https://basecamp.com
-- name: ClickUp
-  url: https://clickup.com
-- name: Wix
-  url: https://wix.com
 - name: WordPress
   url: https://wordpress.org
-- name: Squarespace
-  url: https://squarespace.com
-- name: Tumblr
-  url: https://tumblr.com
-- name: Weebly
-  url: https://weebly.com
-- name: Behance
-  url: https://behance.net
-- name: Dribbble
-  url: https://dribbble.com
-- name: DeviantArt
-  url: https://deviantart.com
-
-
-
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
