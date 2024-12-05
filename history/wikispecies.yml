@@ -1,7 +1,7 @@
 url: https://species.wikimedia.org
-status: up
-code: 200
-responseTime: 189
-lastUpdated: 2024-12-04T23:11:40.119Z
+status: down
+code: 502
+responseTime: 8331
+lastUpdated: 2024-12-05T04:16:58.531Z
 startTime: 2024-11-20T16:01:49.816Z
 generator: Upptime <https://github.com/upptime/upptime>
