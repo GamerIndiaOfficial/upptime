@@ -1,7 +1,7 @@
 url: https://nationalgeographic.org
-status: up
-code: 200
-responseTime: 858
-lastUpdated: 2024-12-04T23:11:12.764Z
+status: down
+code: 504
+responseTime: 381
+lastUpdated: 2024-12-05T16:55:57.560Z
 startTime: 2024-11-20T16:01:06.877Z
 generator: Upptime <https://github.com/upptime/upptime>
