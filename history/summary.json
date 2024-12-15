@@ -62,11 +62,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/openlibrary.org.ico",
     "slug": "open-library",
     "status": "up",
-    "uptime": "79.59%",
+    "uptime": "79.60%",
     "uptimeDay": "98.26%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "79.59%",
+    "uptimeYear": "79.60%",
     "time": 1761,
     "timeDay": 7319,
     "timeWeek": 2746,
@@ -261,10 +261,10 @@
     "url": "https://openstreetmap.org",
     "icon": "https://icons.duckduckgo.com/ip3/openstreetmap.org.ico",
     "slug": "open-street-map",
-    "status": "up",
+    "status": "down",
     "uptime": "98.71%",
-    "uptimeDay": "68.01%",
-    "uptimeWeek": "95.43%",
+    "uptimeDay": "67.97%",
+    "uptimeWeek": "95.42%",
     "uptimeMonth": "98.71%",
     "uptimeYear": "98.71%",
     "time": 876,
@@ -273,7 +273,7 @@
     "timeMonth": 876,
     "timeYear": 876,
     "dailyMinutesDown": {
-      "2024-12-15": 461
+      "2024-12-15": 462
     }
   },
   {
