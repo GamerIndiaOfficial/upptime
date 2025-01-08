@@ -1,27 +1,103 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: GamerIndiaOfficial # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
-sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
-
+sites: 
+- name: Projects-of-Dream
+  url: https://gamerindiaofficial.github.io/Projects-of-dream
+- name: Internet Archive
+  url: https://archive.org
+- name: Open Library
+  url: https://openlibrary.org
+- name: Mozilla
+  url: https://mozilla.org
+- name: Wikipedia
+  url: https://wikipedia.org
+- name: Proton
+  url: https://proton.me
+- name: Khan Academy
+  url: https://khanacademy.org
+- name: TED
+  url: https://ted.com
+- name: Wikimedia Commons
+  url: https://commons.wikimedia.org
+- name: NPR
+  url: https://npr.org
+- name: National Geographic Society
+  url: https://nationalgeographic.org
+- name: Creative Commons
+  url: https://creativecommons.org
+- name: OpenStreetMap
+  url: https://openstreetmap.org
+- name: World Health Organization
+  url: https://who.int
+- name: Médecins Sans Frontières (Doctors Without Borders)
+  url: https://msf.org
+- name: Amnesty International
+  url: https://amnesty.org
+- name: Greenpeace
+  url: https://greenpeace.org
+- name: Wikimedia Foundation
+  url: https://wikimediafoundation.org
+- name: Open Knowledge Foundation
+  url: https://okfn.org
+- name: Internet Society
+  url: https://internetsociety.org
+- name: EFF (Electronic Frontier Foundation)
+  url: https://eff.org
+- name: FSF (Free Software Foundation)
+  url: https://fsf.org
+- name: Tor Project
+  url: https://torproject.org
+- name: Python Software Foundation
+  url: https://python.org
+- name: Apache Software Foundation
+  url: https://apache.org
+- name: Linux Foundation
+  url: https://linuxfoundation.org
+- name: Blender Foundation
+  url: https://blender.org
+- name: Code.org
+  url: https://code.org
+- name: Project Gutenberg
+  url: https://gutenberg.org
+- name: Open Culture
+  url: https://openculture.com
+- name: ArXiv
+  url: https://arxiv.org
+- name: PLOS (Public Library of Science)
+  url: https://plos.org
+- name: DOAJ (Directory of Open Access Journals)
+  url: https://doaj.org
+- name: JSTOR (Nonprofit Access)
+  url: https://jstor.org
+- name: Wikimedia Outreach
+  url: https://outreach.wikimedia.org
+- name: Wikibooks
+  url: https://wikibooks.org
+- name: Wikiversity
+  url: https://wikiversity.org
+- name: Wikinews
+  url: https://wikinews.org
+- name: Wikiquote
+  url: https://wikiquote.org
+- name: Wikispecies
+  url: https://species.wikimedia.org
+- name: Wikivoyage
+  url: https://wikivoyage.org
+- name: Charity Navigator
+  url: https://charitynavigator.org
+- name: GuideStar
+  url: https://guidestar.org
+- name: Open Data Institute
+  url: https://theodi.org
+- name: Internet Governance Forum
+  url: https://intgovforum.org
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # cname: demo.upptime.js.org
+  baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
