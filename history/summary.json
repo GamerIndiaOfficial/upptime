@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/openlibrary.org.ico",
     "slug": "open-library",
     "status": "up",
-    "uptime": "99.53%",
+    "uptime": "99.57%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "99.53%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.57%",
     "time": 1061,
     "timeDay": 944,
     "timeWeek": 1061,
@@ -798,9 +798,9 @@
     "url": "https://intgovforum.org",
     "icon": "https://icons.duckduckgo.com/ip3/intgovforum.org.ico",
     "slug": "internet-governance-forum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -809,6 +809,8 @@
     "timeWeek": 1490,
     "timeMonth": 1490,
     "timeYear": 1490,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-12": 0
+    }
   }
 ]
