@@ -204,9 +204,9 @@
     "url": "https://creativecommons.org",
     "icon": "https://icons.duckduckgo.com/ip3/creativecommons.org.ico",
     "slug": "creative-commons",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -215,7 +215,9 @@
     "timeWeek": 185,
     "timeMonth": 182,
     "timeYear": 182,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-15": 0
+    }
   },
   {
     "name": "OpenStreetMap",
@@ -799,18 +801,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/intgovforum.org.ico",
     "slug": "internet-governance-forum",
     "status": "down",
-    "uptime": "99.77%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
+    "uptime": "98.65%",
+    "uptimeDay": "91.90%",
+    "uptimeWeek": "98.62%",
+    "uptimeMonth": "98.65%",
+    "uptimeYear": "98.65%",
     "time": 1284,
     "timeDay": 1323,
     "timeWeek": 1356,
     "timeMonth": 1284,
     "timeYear": 1284,
     "dailyMinutesDown": {
-      "2025-01-15": 0,
+      "2025-01-15": 117,
       "2025-01-12": 23
     }
   }
