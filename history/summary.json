@@ -260,9 +260,9 @@
     "url": "https://msf.org",
     "icon": "https://icons.duckduckgo.com/ip3/msf.org.ico",
     "slug": "medecins-sans-frontieres-doctors-without-borders",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -271,7 +271,9 @@
     "timeWeek": 1670,
     "timeMonth": 1564,
     "timeYear": 1564,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-22": 0
+    }
   },
   {
     "name": "Amnesty International",
@@ -801,11 +803,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/intgovforum.org.ico",
     "slug": "internet-governance-forum",
     "status": "up",
-    "uptime": "98.97%",
+    "uptime": "99.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.25%",
-    "uptimeMonth": "98.97%",
-    "uptimeYear": "98.97%",
+    "uptimeMonth": "99.00%",
+    "uptimeYear": "99.00%",
     "time": 1058,
     "timeDay": 605,
     "timeWeek": 916,
