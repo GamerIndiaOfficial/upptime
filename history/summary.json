@@ -458,9 +458,9 @@
     "url": "https://linuxfoundation.org",
     "icon": "https://icons.duckduckgo.com/ip3/linuxfoundation.org.ico",
     "slug": "linux-foundation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -469,7 +469,9 @@
     "timeWeek": 546,
     "timeMonth": 472,
     "timeYear": 472,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-24": 0
+    }
   },
   {
     "name": "Blender Foundation",
@@ -801,11 +803,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/intgovforum.org.ico",
     "slug": "internet-governance-forum",
     "status": "up",
-    "uptime": "98.67%",
+    "uptime": "98.68%",
     "uptimeDay": "93.28%",
     "uptimeWeek": "98.74%",
-    "uptimeMonth": "98.67%",
-    "uptimeYear": "98.67%",
+    "uptimeMonth": "98.68%",
+    "uptimeYear": "98.68%",
     "time": 1005,
     "timeDay": 601,
     "timeWeek": 733,
