@@ -132,19 +132,19 @@
     "url": "https://ted.com",
     "icon": "https://icons.duckduckgo.com/ip3/ted.com.ico",
     "slug": "ted",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 331,
-    "timeDay": 340,
-    "timeWeek": 354,
-    "timeMonth": 331,
-    "timeYear": 331,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 327,
+    "timeDay": 311,
+    "timeWeek": 343,
+    "timeMonth": 327,
+    "timeYear": 327,
     "dailyMinutesDown": {
-      "2025-01-24": 1
+      "2025-01-24": 9
     }
   },
   {
