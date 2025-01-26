@@ -368,9 +368,9 @@
     "url": "https://eff.org",
     "icon": "https://icons.duckduckgo.com/ip3/eff.org.ico",
     "slug": "eff-electronic-frontier-foundation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -379,7 +379,9 @@
     "timeWeek": 1470,
     "timeMonth": 961,
     "timeYear": 961,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-26": 0
+    }
   },
   {
     "name": "FSF (Free Software Foundation)",
@@ -801,11 +803,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/intgovforum.org.ico",
     "slug": "internet-governance-forum",
     "status": "up",
-    "uptime": "98.82%",
+    "uptime": "98.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.74%",
-    "uptimeMonth": "98.82%",
-    "uptimeYear": "98.82%",
+    "uptimeMonth": "98.85%",
+    "uptimeYear": "98.85%",
     "time": 984,
     "timeDay": 1041,
     "timeWeek": 670,
