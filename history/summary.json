@@ -368,19 +368,19 @@
     "url": "https://eff.org",
     "icon": "https://icons.duckduckgo.com/ip3/eff.org.ico",
     "slug": "eff-electronic-frontier-foundation",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 961,
-    "timeDay": 303,
-    "timeWeek": 1470,
-    "timeMonth": 961,
-    "timeYear": 961,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 929,
+    "timeDay": 301,
+    "timeWeek": 1324,
+    "timeMonth": 929,
+    "timeYear": 929,
     "dailyMinutesDown": {
-      "2025-01-26": 0
+      "2025-01-26": 10
     }
   },
   {
