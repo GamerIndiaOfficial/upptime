@@ -41,18 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/openlibrary.org.ico",
     "slug": "open-library",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 1853,
     "timeDay": 3762,
     "timeWeek": 1971,
     "timeMonth": 1853,
     "timeYear": 1853,
     "dailyMinutesDown": {
-      "2025-02-04": 12,
       "2025-01-10": 24
     }
   },
@@ -100,10 +99,10 @@
     "url": "https://proton.me",
     "icon": "https://icons.duckduckgo.com/ip3/proton.me.ico",
     "slug": "proton",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1039,
@@ -111,7 +110,9 @@
     "timeWeek": 1122,
     "timeMonth": 1039,
     "timeYear": 1039,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-04": 1
+    }
   },
   {
     "name": "Khan Academy",
@@ -805,11 +806,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/intgovforum.org.ico",
     "slug": "internet-governance-forum",
     "status": "up",
-    "uptime": "99.23%",
+    "uptime": "99.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.23%",
-    "uptimeYear": "99.23%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.24%",
     "time": 928,
     "timeDay": 483,
     "timeWeek": 740,
