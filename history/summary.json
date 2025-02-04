@@ -515,19 +515,19 @@
     "url": "https://gutenberg.org",
     "icon": "https://icons.duckduckgo.com/ip3/gutenberg.org.ico",
     "slug": "project-gutenberg",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 416,
-    "timeDay": 311,
-    "timeWeek": 453,
-    "timeMonth": 416,
-    "timeYear": 416,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 411,
+    "timeDay": 281,
+    "timeWeek": 427,
+    "timeMonth": 411,
+    "timeYear": 411,
     "dailyMinutesDown": {
-      "2025-02-04": 0
+      "2025-02-04": 7
     }
   },
   {
