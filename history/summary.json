@@ -99,19 +99,19 @@
     "url": "https://proton.me",
     "icon": "https://icons.duckduckgo.com/ip3/proton.me.ico",
     "slug": "proton",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1039,
-    "timeDay": 707,
-    "timeWeek": 1122,
-    "timeMonth": 1039,
-    "timeYear": 1039,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1033,
+    "timeDay": 777,
+    "timeWeek": 1088,
+    "timeMonth": 1033,
+    "timeYear": 1033,
     "dailyMinutesDown": {
-      "2025-02-04": 1
+      "2025-02-04": 12
     }
   },
   {
