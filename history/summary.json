@@ -337,19 +337,19 @@
     "url": "https://okfn.org",
     "icon": "https://icons.duckduckgo.com/ip3/okfn.org.ico",
     "slug": "open-knowledge-foundation",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1177,
-    "timeDay": 10191,
-    "timeWeek": 3027,
-    "timeMonth": 1303,
-    "timeYear": 1177,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.96%",
+    "time": 1164,
+    "timeDay": 7006,
+    "timeWeek": 2761,
+    "timeMonth": 1283,
+    "timeYear": 1164,
     "dailyMinutesDown": {
-      "2025-02-13": 0
+      "2025-02-13": 22
     }
   },
   {
