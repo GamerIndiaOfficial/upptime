@@ -84,9 +84,9 @@
     "url": "https://wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "89.74%",
+    "uptimeDay": "89.70%",
     "uptimeWeek": "98.53%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.97%",
@@ -96,7 +96,7 @@
     "timeMonth": 257,
     "timeYear": 292,
     "dailyMinutesDown": {
-      "2025-02-28": 147
+      "2025-02-28": 148
     }
   },
   {
@@ -273,19 +273,19 @@
     "url": "https://msf.org",
     "icon": "https://icons.duckduckgo.com/ip3/msf.org.ico",
     "slug": "medecins-sans-frontieres-doctors-without-borders",
-    "status": "down",
-    "uptime": "98.61%",
-    "uptimeDay": "37.96%",
-    "uptimeWeek": "89.87%",
-    "uptimeMonth": "97.67%",
-    "uptimeYear": "98.61%",
-    "time": 1761,
-    "timeDay": 1223,
-    "timeWeek": 2517,
-    "timeMonth": 1724,
-    "timeYear": 1761,
+    "status": "up",
+    "uptime": "98.58%",
+    "uptimeDay": "36.75%",
+    "uptimeWeek": "89.70%",
+    "uptimeMonth": "97.63%",
+    "uptimeYear": "98.58%",
+    "time": 1758,
+    "timeDay": 1273,
+    "timeWeek": 2454,
+    "timeMonth": 1720,
+    "timeYear": 1758,
     "dailyMinutesDown": {
-      "2025-02-28": 521,
+      "2025-02-28": 539,
       "2025-02-27": 372,
       "2025-02-22": 98,
       "2025-02-21": 30
