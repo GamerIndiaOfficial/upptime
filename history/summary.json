@@ -280,7 +280,7 @@
     "status": "up",
     "uptime": "96.42%",
     "uptimeDay": "79.96%",
-    "uptimeWeek": "71.78%",
+    "uptimeWeek": "71.90%",
     "uptimeMonth": "93.01%",
     "uptimeYear": "96.42%",
     "time": 1432,
@@ -504,9 +504,9 @@
     "url": "https://blender.org",
     "icon": "https://icons.duckduckgo.com/ip3/blender.org.ico",
     "slug": "blender-foundation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -515,7 +515,9 @@
     "timeWeek": 1283,
     "timeMonth": 1157,
     "timeYear": 1137,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-09": 0
+    }
   },
   {
     "name": "Code.org",
