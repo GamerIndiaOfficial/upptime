@@ -561,9 +561,9 @@
     "url": "https://openculture.com",
     "icon": "https://icons.duckduckgo.com/ip3/openculture.com.ico",
     "slug": "open-culture",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
@@ -573,6 +573,7 @@
     "timeMonth": 433,
     "timeYear": 441,
     "dailyMinutesDown": {
+      "2025-03-12": 1,
       "2025-03-07": 19,
       "2025-03-01": 19
     }
