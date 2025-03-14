@@ -281,12 +281,12 @@
     "url": "https://msf.org",
     "icon": "https://icons.duckduckgo.com/ip3/msf.org.ico",
     "slug": "medecins-sans-frontieres-doctors-without-borders",
-    "status": "up",
-    "uptime": "97.07%",
-    "uptimeDay": "77.45%",
-    "uptimeWeek": "78.20%",
-    "uptimeMonth": "93.71%",
-    "uptimeYear": "97.07%",
+    "status": "down",
+    "uptime": "97.11%",
+    "uptimeDay": "77.43%",
+    "uptimeWeek": "78.19%",
+    "uptimeMonth": "93.79%",
+    "uptimeYear": "97.11%",
     "time": 1427,
     "timeDay": 1288,
     "timeWeek": 1370,
@@ -301,7 +301,7 @@
       "2025-03-09": 311,
       "2025-03-08": 289,
       "2025-03-07": 483,
-      "2025-03-06": 142
+      "2025-03-06": 105
     }
   },
   {
