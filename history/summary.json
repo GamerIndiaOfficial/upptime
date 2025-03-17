@@ -13,7 +13,7 @@
     "time": 138,
     "timeDay": 256,
     "timeWeek": 154,
-    "timeMonth": 136,
+    "timeMonth": 133,
     "timeYear": 138,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 674,
     "timeDay": 167,
     "timeWeek": 284,
-    "timeMonth": 462,
+    "timeMonth": 474,
     "timeYear": 674,
     "dailyMinutesDown": {
       "2025-02-15": 31
@@ -51,7 +51,7 @@
     "time": 1676,
     "timeDay": 246,
     "timeWeek": 2408,
-    "timeMonth": 1612,
+    "timeMonth": 1651,
     "timeYear": 1676,
     "dailyMinutesDown": {
       "2025-03-14": 16,
@@ -74,7 +74,7 @@
     "time": 371,
     "timeDay": 99,
     "timeWeek": 244,
-    "timeMonth": 431,
+    "timeMonth": 436,
     "timeYear": 371,
     "dailyMinutesDown": {
       "2025-03-04": 16,
@@ -96,7 +96,7 @@
     "time": 281,
     "timeDay": 214,
     "timeWeek": 287,
-    "timeMonth": 239,
+    "timeMonth": 241,
     "timeYear": 281,
     "dailyMinutesDown": {
       "2025-02-28": 167
@@ -116,7 +116,7 @@
     "time": 1032,
     "timeDay": 1157,
     "timeWeek": 948,
-    "timeMonth": 1009,
+    "timeMonth": 1001,
     "timeYear": 1032,
     "dailyMinutesDown": {}
   },
@@ -134,7 +134,7 @@
     "time": 500,
     "timeDay": 445,
     "timeWeek": 501,
-    "timeMonth": 446,
+    "timeMonth": 447,
     "timeYear": 500,
     "dailyMinutesDown": {}
   },
@@ -152,7 +152,7 @@
     "time": 608,
     "timeDay": 374,
     "timeWeek": 284,
-    "timeMonth": 715,
+    "timeMonth": 717,
     "timeYear": 608,
     "dailyMinutesDown": {
       "2025-03-17": 17,
@@ -181,7 +181,7 @@
     "time": 166,
     "timeDay": 190,
     "timeWeek": 178,
-    "timeMonth": 145,
+    "timeMonth": 146,
     "timeYear": 166,
     "dailyMinutesDown": {}
   },
@@ -199,7 +199,7 @@
     "time": 484,
     "timeDay": 326,
     "timeWeek": 407,
-    "timeMonth": 443,
+    "timeMonth": 455,
     "timeYear": 484,
     "dailyMinutesDown": {}
   },
@@ -284,19 +284,19 @@
     "url": "https://msf.org",
     "icon": "https://icons.duckduckgo.com/ip3/msf.org.ico",
     "slug": "medecins-sans-frontieres-doctors-without-borders",
-    "status": "up",
-    "uptime": "97.08%",
-    "uptimeDay": "61.86%",
-    "uptimeWeek": "74.99%",
-    "uptimeMonth": "93.43%",
-    "uptimeYear": "97.08%",
+    "status": "down",
+    "uptime": "97.09%",
+    "uptimeDay": "62.35%",
+    "uptimeWeek": "75.05%",
+    "uptimeMonth": "93.45%",
+    "uptimeYear": "97.09%",
     "time": 1401,
     "timeDay": 1283,
     "timeWeek": 1266,
     "timeMonth": 1384,
     "timeYear": 1401,
     "dailyMinutesDown": {
-      "2025-03-17": 547,
+      "2025-03-17": 540,
       "2025-03-16": 232,
       "2025-03-15": 333,
       "2025-03-14": 398,
