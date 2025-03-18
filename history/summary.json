@@ -22,10 +22,10 @@
     "url": "https://archive.org",
     "icon": "https://icons.duckduckgo.com/ip3/archive.org.ico",
     "slug": "internet-archive",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 670,
@@ -34,6 +34,7 @@
     "timeMonth": 470,
     "timeYear": 670,
     "dailyMinutesDown": {
+      "2025-03-18": 1,
       "2025-02-15": 31
     }
   },
@@ -284,12 +285,12 @@
     "url": "https://msf.org",
     "icon": "https://icons.duckduckgo.com/ip3/msf.org.ico",
     "slug": "medecins-sans-frontieres-doctors-without-borders",
-    "status": "up",
-    "uptime": "96.98%",
-    "uptimeDay": "70.54%",
-    "uptimeWeek": "74.28%",
-    "uptimeMonth": "93.12%",
-    "uptimeYear": "96.98%",
+    "status": "down",
+    "uptime": "97.00%",
+    "uptimeDay": "70.51%",
+    "uptimeWeek": "74.27%",
+    "uptimeMonth": "93.16%",
+    "uptimeYear": "97.00%",
     "time": 1392,
     "timeDay": 1231,
     "timeWeek": 1265,
@@ -304,7 +305,7 @@
       "2025-03-13": 191,
       "2025-03-12": 470,
       "2025-03-11": 351,
-      "2025-03-10": 100
+      "2025-03-10": 83
     }
   },
   {
