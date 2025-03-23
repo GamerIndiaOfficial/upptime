@@ -287,12 +287,12 @@
     "url": "https://msf.org",
     "icon": "https://icons.duckduckgo.com/ip3/msf.org.ico",
     "slug": "medecins-sans-frontieres-doctors-without-borders",
-    "status": "up",
-    "uptime": "97.12%",
-    "uptimeDay": "70.31%",
+    "status": "down",
+    "uptime": "97.14%",
+    "uptimeDay": "70.28%",
     "uptimeWeek": "71.15%",
-    "uptimeMonth": "93.03%",
-    "uptimeYear": "97.12%",
+    "uptimeMonth": "93.08%",
+    "uptimeYear": "97.14%",
     "time": 1370,
     "timeDay": 1266,
     "timeWeek": 1256,
@@ -307,7 +307,7 @@
       "2025-03-18": 480,
       "2025-03-17": 540,
       "2025-03-16": 232,
-      "2025-03-15": 99
+      "2025-03-15": 79
     }
   },
   {
@@ -600,19 +600,19 @@
     "url": "https://arxiv.org",
     "icon": "https://icons.duckduckgo.com/ip3/arxiv.org.ico",
     "slug": "ar-xiv",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 194,
-    "timeDay": 122,
-    "timeWeek": 133,
-    "timeMonth": 178,
+    "timeDay": 128,
+    "timeWeek": 134,
+    "timeMonth": 177,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2025-03-23": 0
+      "2025-03-23": 7
     }
   },
   {
