@@ -152,7 +152,7 @@
     "uptimeYear": "99.68%",
     "time": 581,
     "timeDay": 343,
-    "timeWeek": 320,
+    "timeWeek": 329,
     "timeMonth": 557,
     "timeYear": 581,
     "dailyMinutesDown": {
@@ -288,15 +288,15 @@
     "url": "https://msf.org",
     "icon": "https://icons.duckduckgo.com/ip3/msf.org.ico",
     "slug": "medecins-sans-frontieres-doctors-without-borders",
-    "status": "up",
-    "uptime": "97.09%",
-    "uptimeDay": "68.64%",
-    "uptimeWeek": "70.44%",
-    "uptimeMonth": "92.90%",
-    "uptimeYear": "97.09%",
+    "status": "down",
+    "uptime": "97.11%",
+    "uptimeDay": "69.11%",
+    "uptimeWeek": "70.43%",
+    "uptimeMonth": "92.95%",
+    "uptimeYear": "97.11%",
     "time": 1363,
-    "timeDay": 1214,
-    "timeWeek": 1248,
+    "timeDay": 1226,
+    "timeWeek": 1244,
     "timeMonth": 1316,
     "timeYear": 1363,
     "dailyMinutesDown": {
@@ -307,7 +307,7 @@
       "2025-03-19": 572,
       "2025-03-18": 480,
       "2025-03-17": 540,
-      "2025-03-16": 131
+      "2025-03-16": 108
     }
   },
   {
