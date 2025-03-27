@@ -608,19 +608,19 @@
     "url": "https://arxiv.org",
     "icon": "https://icons.duckduckgo.com/ip3/arxiv.org.ico",
     "slug": "ar-xiv",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 189,
-    "timeDay": 98,
-    "timeWeek": 121,
-    "timeMonth": 166,
+    "timeDay": 132,
+    "timeWeek": 128,
+    "timeMonth": 167,
     "timeYear": 189,
     "dailyMinutesDown": {
-      "2025-03-27": 0
+      "2025-03-27": 17
     }
   },
   {
