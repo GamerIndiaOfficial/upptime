@@ -512,19 +512,19 @@
     "url": "https://linuxfoundation.org",
     "icon": "https://icons.duckduckgo.com/ip3/linuxfoundation.org.ico",
     "slug": "linux-foundation",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 539,
-    "timeDay": 817,
-    "timeWeek": 536,
-    "timeMonth": 488,
-    "timeYear": 539,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 587,
+    "timeDay": 2922,
+    "timeWeek": 1098,
+    "timeMonth": 629,
+    "timeYear": 587,
     "dailyMinutesDown": {
-      "2025-04-07": 1
+      "2025-04-07": 7
     }
   },
   {
