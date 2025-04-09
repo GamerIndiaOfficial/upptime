@@ -302,7 +302,7 @@
     "status": "up",
     "uptime": "97.45%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "93.12%",
+    "uptimeWeek": "93.17%",
     "uptimeMonth": "92.42%",
     "uptimeYear": "97.45%",
     "time": 1316,
@@ -578,10 +578,10 @@
     "url": "https://gutenberg.org",
     "icon": "https://icons.duckduckgo.com/ip3/gutenberg.org.ico",
     "slug": "project-gutenberg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 482,
@@ -590,6 +590,7 @@
     "timeMonth": 389,
     "timeYear": 482,
     "dailyMinutesDown": {
+      "2025-04-09": 1,
       "2025-03-20": 19
     }
   },
