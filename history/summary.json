@@ -223,18 +223,20 @@
     "url": "https://nationalgeographic.org",
     "icon": "https://icons.duckduckgo.com/ip3/nationalgeographic.org.ico",
     "slug": "national-geographic-society",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 842,
-    "timeDay": 746,
-    "timeWeek": 847,
-    "timeMonth": 823,
-    "timeYear": 842,
-    "dailyMinutesDown": {}
+    "time": 837,
+    "timeDay": 555,
+    "timeWeek": 787,
+    "timeMonth": 808,
+    "timeYear": 837,
+    "dailyMinutesDown": {
+      "2025-04-14": 1
+    }
   },
   {
     "name": "Creative Commons",
@@ -422,19 +424,19 @@
     "url": "https://eff.org",
     "icon": "https://icons.duckduckgo.com/ip3/eff.org.ico",
     "slug": "eff-electronic-frontier-foundation",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 837,
-    "timeDay": 1115,
-    "timeWeek": 774,
-    "timeMonth": 625,
-    "timeYear": 837,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
+    "time": 831,
+    "timeDay": 814,
+    "timeWeek": 711,
+    "timeMonth": 613,
+    "timeYear": 831,
     "dailyMinutesDown": {
-      "2025-04-14": 1
+      "2025-04-14": 25
     }
   },
   {
