@@ -317,7 +317,7 @@
     "time": 1316,
     "timeDay": 1270,
     "timeWeek": 1260,
-    "timeMonth": 1202,
+    "timeMonth": 1203,
     "timeYear": 1316,
     "dailyMinutesDown": {
       "2025-04-03": 279,
@@ -676,10 +676,10 @@
     "url": "https://doaj.org",
     "icon": "https://icons.duckduckgo.com/ip3/doaj.org.ico",
     "slug": "doaj-directory-of-open-access-journals",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 466,
@@ -687,7 +687,9 @@
     "timeWeek": 499,
     "timeMonth": 525,
     "timeYear": 466,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-24": 1
+    }
   },
   {
     "name": "JSTOR (Nonprofit Access)",
@@ -896,18 +898,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/intgovforum.org.ico",
     "slug": "internet-governance-forum",
     "status": "up",
-    "uptime": "99.17%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "98.96%",
-    "uptimeMonth": "99.03%",
-    "uptimeYear": "99.17%",
+    "uptime": "99.18%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "99.05%",
+    "uptimeYear": "99.18%",
     "time": 2019,
     "timeDay": 853,
     "timeWeek": 4056,
     "timeMonth": 2020,
     "timeYear": 2019,
     "dailyMinutesDown": {
-      "2025-04-24": 11,
       "2025-04-22": 38,
       "2025-04-21": 56,
       "2025-04-15": 50,
