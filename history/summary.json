@@ -337,18 +337,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/amnesty.org.ico",
     "slug": "amnesty-international",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "97.08%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.97%",
     "time": 939,
     "timeDay": 834,
     "timeWeek": 885,
     "timeMonth": 1018,
     "timeYear": 939,
     "dailyMinutesDown": {
-      "2025-04-24": 1
+      "2025-04-24": 42
     }
   },
   {
