@@ -412,11 +412,11 @@
     "url": "https://internetsociety.org",
     "icon": "https://icons.duckduckgo.com/ip3/internetsociety.org.ico",
     "slug": "internet-society",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 852,
     "timeDay": 628,
@@ -424,7 +424,7 @@
     "timeMonth": 825,
     "timeYear": 852,
     "dailyMinutesDown": {
-      "2025-04-25": 6
+      "2025-04-25": 1
     }
   },
   {
