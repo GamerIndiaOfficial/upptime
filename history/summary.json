@@ -667,19 +667,19 @@
     "url": "https://plos.org",
     "icon": "https://icons.duckduckgo.com/ip3/plos.org.ico",
     "slug": "plos-public-library-of-science",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 232,
-    "timeDay": 823,
-    "timeWeek": 403,
+    "timeDay": 634,
+    "timeWeek": 385,
     "timeMonth": 286,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2025-05-09": 1
+      "2025-05-09": 21
     }
   },
   {
