@@ -605,9 +605,9 @@
     "slug": "project-gutenberg",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.50%",
     "time": 474,
     "timeDay": 1439,
@@ -615,7 +615,6 @@
     "timeMonth": 457,
     "timeYear": 474,
     "dailyMinutesDown": {
-      "2025-05-09": 7,
       "2025-04-09": 846,
       "2025-03-20": 19
     }
@@ -668,18 +667,20 @@
     "url": "https://plos.org",
     "icon": "https://icons.duckduckgo.com/ip3/plos.org.ico",
     "slug": "plos-public-library-of-science",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 221,
-    "timeDay": 108,
-    "timeWeek": 214,
-    "timeMonth": 243,
-    "timeYear": 221,
-    "dailyMinutesDown": {}
+    "time": 232,
+    "timeDay": 823,
+    "timeWeek": 403,
+    "timeMonth": 286,
+    "timeYear": 232,
+    "dailyMinutesDown": {
+      "2025-05-09": 1
+    }
   },
   {
     "name": "DOAJ (Directory of Open Access Journals)",
