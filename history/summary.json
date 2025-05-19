@@ -383,19 +383,19 @@
     "url": "https://wikimediafoundation.org",
     "icon": "https://icons.duckduckgo.com/ip3/wikimediafoundation.org.ico",
     "slug": "wikimedia-foundation",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 240,
-    "timeDay": 168,
-    "timeWeek": 269,
-    "timeMonth": 250,
-    "timeYear": 240,
+    "time": 243,
+    "timeDay": 433,
+    "timeWeek": 323,
+    "timeMonth": 265,
+    "timeYear": 243,
     "dailyMinutesDown": {
-      "2025-05-19": 1
+      "2025-05-19": 7
     }
   },
   {
