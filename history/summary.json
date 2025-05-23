@@ -443,10 +443,10 @@
     "url": "https://eff.org",
     "icon": "https://icons.duckduckgo.com/ip3/eff.org.ico",
     "slug": "eff-electronic-frontier-foundation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
     "time": 844,
@@ -455,6 +455,7 @@
     "timeMonth": 874,
     "timeYear": 844,
     "dailyMinutesDown": {
+      "2025-05-23": 1,
       "2025-05-15": 32,
       "2025-04-14": 25
     }
@@ -924,7 +925,7 @@
     "time": 2015,
     "timeDay": 818,
     "timeWeek": 672,
-    "timeMonth": 2065,
+    "timeMonth": 1956,
     "timeYear": 2015,
     "dailyMinutesDown": {
       "2025-05-10": 25,
