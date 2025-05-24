@@ -1,7 +1,7 @@
 url: https://intgovforum.org
-status: up
-code: 200
-responseTime: 4228
-lastUpdated: 2025-05-24T06:53:58.877Z
+status: down
+code: 504
+responseTime: 10237
+lastUpdated: 2025-05-24T15:31:32.384Z
 startTime: 2025-01-08T12:43:39.803Z
 generator: Upptime <https://github.com/upptime/upptime>
