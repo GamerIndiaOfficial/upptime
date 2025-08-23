@@ -1,7 +1,7 @@
 url: https://openstreetmap.org
-status: down
-code: 503
-responseTime: 887
-lastUpdated: 2025-08-23T17:58:30.895Z
+status: up
+code: 200
+responseTime: 8514
+lastUpdated: 2025-08-23T18:25:53.743Z
 startTime: 2025-01-08T12:43:09.788Z
 generator: Upptime <https://github.com/upptime/upptime>
