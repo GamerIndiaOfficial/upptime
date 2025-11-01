@@ -357,7 +357,7 @@
     "timeMonth": 220,
     "timeYear": 1181,
     "dailyMinutesDown": {
-      "2025-11-01": 1251,
+      "2025-11-01": 1257,
       "2025-10-31": 1440,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
@@ -760,7 +760,7 @@
     "timeMonth": 750,
     "timeYear": 1253,
     "dailyMinutesDown": {
-      "2025-11-01": 1252,
+      "2025-11-01": 1257,
       "2025-10-31": 1440,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
@@ -1206,19 +1206,19 @@
     "url": "https://guidestar.org",
     "icon": "https://icons.duckduckgo.com/ip3/guidestar.org.ico",
     "slug": "guide-star",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 606,
-    "timeDay": 717,
-    "timeWeek": 503,
-    "timeMonth": 552,
+    "timeDay": 751,
+    "timeWeek": 538,
+    "timeMonth": 559,
     "timeYear": 606,
     "dailyMinutesDown": {
-      "2025-11-01": 1
+      "2025-11-01": 6
     }
   },
   {
@@ -1260,7 +1260,7 @@
     "timeMonth": 214,
     "timeYear": 2116,
     "dailyMinutesDown": {
-      "2025-11-01": 1252,
+      "2025-11-01": 1258,
       "2025-10-31": 1440,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
