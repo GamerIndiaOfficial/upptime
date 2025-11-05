@@ -1,7 +1,7 @@
 url: https://openlibrary.org
-status: down
-code: 503
-responseTime: 9348
-lastUpdated: 2025-11-05T15:55:24.729Z
+status: up
+code: 200
+responseTime: 519
+lastUpdated: 2025-11-05T16:15:59.567Z
 startTime: 2025-01-08T12:43:02.280Z
 generator: Upptime <https://github.com/upptime/upptime>
