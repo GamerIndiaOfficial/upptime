@@ -1,7 +1,7 @@
 url: https://guidestar.org
-status: up
-code: 200
-responseTime: 629
-lastUpdated: 2025-11-18T11:53:14.096Z
+status: down
+code: 500
+responseTime: 257
+lastUpdated: 2025-11-18T12:00:51.552Z
 startTime: 2025-01-08T12:43:37.751Z
 generator: Upptime <https://github.com/upptime/upptime>
