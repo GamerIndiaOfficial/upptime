@@ -1,7 +1,7 @@
 url: https://greenpeace.org
-status: up
-code: 200
-responseTime: 712
-lastUpdated: 2025-11-18T12:53:29.117Z
+status: down
+code: 500
+responseTime: 326
+lastUpdated: 2025-11-18T13:24:44.950Z
 startTime: 2025-01-08T12:43:14.078Z
 generator: Upptime <https://github.com/upptime/upptime>
