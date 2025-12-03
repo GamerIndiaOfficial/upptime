@@ -1,7 +1,7 @@
 url: https://internetsociety.org
-status: up
-code: 200
-responseTime: 1842
-lastUpdated: 2025-12-03T15:23:53.740Z
+status: down
+code: 500
+responseTime: 346
+lastUpdated: 2025-12-03T15:42:49.940Z
 startTime: 2025-01-08T12:43:16.644Z
 generator: Upptime <https://github.com/upptime/upptime>
