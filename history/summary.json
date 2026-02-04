@@ -70,7 +70,7 @@
     "timeDay": 597,
     "timeWeek": 514,
     "timeMonth": 504,
-    "timeYear": 2048,
+    "timeYear": 2037,
     "dailyMinutesDown": {
       "2026-01-14": 21,
       "2026-01-11": 52,
@@ -167,7 +167,7 @@
     "timeDay": 1144,
     "timeWeek": 1012,
     "timeMonth": 1047,
-    "timeYear": 1020,
+    "timeYear": 1021,
     "dailyMinutesDown": {
       "2025-10-30": 29
     }
@@ -187,7 +187,7 @@
     "timeDay": 594,
     "timeWeek": 408,
     "timeMonth": 418,
-    "timeYear": 782,
+    "timeYear": 783,
     "dailyMinutesDown": {
       "2025-08-18": 16,
       "2025-06-12": 55
@@ -276,7 +276,7 @@
     "timeDay": 689,
     "timeWeek": 490,
     "timeMonth": 508,
-    "timeYear": 511,
+    "timeYear": 510,
     "dailyMinutesDown": {}
   },
   {
@@ -294,7 +294,7 @@
     "timeDay": 815,
     "timeWeek": 800,
     "timeMonth": 816,
-    "timeYear": 885,
+    "timeYear": 886,
     "dailyMinutesDown": {
       "2025-04-14": 22
     }
@@ -305,7 +305,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/creativecommons.org.ico",
     "slug": "creative-commons",
     "status": "up",
-    "uptime": "98.99%",
+    "uptime": "99.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -341,7 +341,7 @@
     "timeDay": 1077,
     "timeWeek": 913,
     "timeMonth": 968,
-    "timeYear": 1031,
+    "timeYear": 1029,
     "dailyMinutesDown": {
       "2025-12-14": 58,
       "2025-12-13": 6,
@@ -367,7 +367,7 @@
     "timeDay": 948,
     "timeWeek": 705,
     "timeMonth": 796,
-    "timeYear": 832,
+    "timeYear": 831,
     "dailyMinutesDown": {
       "2025-12-05": 24,
       "2025-06-12": 49,
@@ -381,18 +381,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/msf.org.ico",
     "slug": "medecins-sans-frontieres-doctors-without-borders",
     "status": "down",
-    "uptime": "42.27%",
+    "uptime": "42.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "38.08%",
+    "uptimeYear": "37.83%",
     "time": 1106,
     "timeDay": 342,
     "timeWeek": 224,
     "timeMonth": 250,
     "timeYear": 1090,
     "dailyMinutesDown": {
-      "2026-02-04": 58,
+      "2026-02-04": 1402,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
@@ -645,7 +645,7 @@
     "timeDay": 904,
     "timeWeek": 864,
     "timeMonth": 898,
-    "timeYear": 973,
+    "timeYear": 974,
     "dailyMinutesDown": {
       "2025-12-05": 24,
       "2025-05-22": 44,
@@ -690,7 +690,7 @@
     "timeDay": 355,
     "timeWeek": 302,
     "timeMonth": 231,
-    "timeYear": 254,
+    "timeYear": 253,
     "dailyMinutesDown": {}
   },
   {
@@ -721,15 +721,15 @@
     "slug": "internet-society",
     "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "98.17%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.57%",
     "uptimeMonth": "99.21%",
     "uptimeYear": "99.33%",
     "time": 1295,
-    "timeDay": 8217,
+    "timeDay": 4055,
     "timeWeek": 4889,
     "timeMonth": 2634,
-    "timeYear": 1333,
+    "timeYear": 1334,
     "dailyMinutesDown": {
       "2026-02-03": 26,
       "2026-01-31": 17,
@@ -765,7 +765,7 @@
     "timeDay": 499,
     "timeWeek": 692,
     "timeMonth": 667,
-    "timeYear": 772,
+    "timeYear": 771,
     "dailyMinutesDown": {
       "2025-10-07": 137,
       "2025-09-30": 19,
@@ -827,7 +827,7 @@
     "timeDay": 818,
     "timeWeek": 857,
     "timeMonth": 1085,
-    "timeYear": 1237,
+    "timeYear": 1228,
     "dailyMinutesDown": {
       "2026-02-01": 22,
       "2025-11-18": 17,
@@ -852,7 +852,7 @@
     "timeDay": 173,
     "timeWeek": 188,
     "timeMonth": 176,
-    "timeYear": 196,
+    "timeYear": 197,
     "dailyMinutesDown": {
       "2025-09-22": 34
     }
@@ -910,7 +910,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/blender.org.ico",
     "slug": "blender-foundation",
     "status": "up",
-    "uptime": "69.88%",
+    "uptime": "69.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -919,7 +919,7 @@
     "timeDay": 1192,
     "timeWeek": 911,
     "timeMonth": 1012,
-    "timeYear": 1196,
+    "timeYear": 1197,
     "dailyMinutesDown": {
       "2025-11-21": 1007,
       "2025-11-20": 1440,
@@ -1090,7 +1090,7 @@
     "timeDay": 349,
     "timeWeek": 363,
     "timeMonth": 383,
-    "timeYear": 1131,
+    "timeYear": 1135,
     "dailyMinutesDown": {
       "2026-01-24": 18,
       "2025-12-20": 57,
@@ -1153,18 +1153,19 @@
     "url": "https://arxiv.org",
     "icon": "https://icons.duckduckgo.com/ip3/arxiv.org.ico",
     "slug": "ar-xiv",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
     "time": 213,
-    "timeDay": 443,
-    "timeWeek": 173,
-    "timeMonth": 285,
+    "timeDay": 293,
+    "timeWeek": 170,
+    "timeMonth": 281,
     "timeYear": 214,
     "dailyMinutesDown": {
+      "2026-02-04": 1,
       "2026-01-25": 30,
       "2025-11-13": 22,
       "2025-09-22": 17,
@@ -1212,7 +1213,7 @@
     "timeDay": 540,
     "timeWeek": 406,
     "timeMonth": 419,
-    "timeYear": 611,
+    "timeYear": 612,
     "dailyMinutesDown": {
       "2025-11-25": 27,
       "2025-11-18": 123,
@@ -1320,7 +1321,7 @@
     "timeDay": 501,
     "timeWeek": 385,
     "timeMonth": 417,
-    "timeYear": 465,
+    "timeYear": 464,
     "dailyMinutesDown": {}
   },
   {
@@ -1432,7 +1433,7 @@
     "timeDay": 1044,
     "timeWeek": 739,
     "timeMonth": 734,
-    "timeYear": 832,
+    "timeYear": 833,
     "dailyMinutesDown": {
       "2025-11-18": 174,
       "2025-10-01": 20,
@@ -1446,18 +1447,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/intgovforum.org.ico",
     "slug": "internet-governance-forum",
     "status": "down",
-    "uptime": "42.76%",
+    "uptime": "42.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "38.66%",
+    "uptimeYear": "38.41%",
     "time": 1771,
     "timeDay": 145,
     "timeWeek": 208,
     "timeMonth": 230,
-    "timeYear": 1835,
+    "timeYear": 1834,
     "dailyMinutesDown": {
-      "2026-02-04": 59,
+      "2026-02-04": 1403,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
