@@ -1,7 +1,7 @@
 url: https://jstor.org
-status: up
-code: 200
-responseTime: 4337
-lastUpdated: 2026-04-10T23:43:06.462Z
+status: down
+code: 502
+responseTime: 3566
+lastUpdated: 2026-04-11T15:50:01.986Z
 startTime: 2025-01-08T12:43:30.807Z
 generator: Upptime <https://github.com/upptime/upptime>
