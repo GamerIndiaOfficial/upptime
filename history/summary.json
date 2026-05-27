@@ -75,7 +75,7 @@
     "timeDay": 2973,
     "timeWeek": 1159,
     "timeMonth": 2239,
-    "timeYear": 1904,
+    "timeYear": 1907,
     "dailyMinutesDown": {
       "2025-06-06": 102,
       "2025-06-25": 107,
@@ -290,7 +290,7 @@
     "timeDay": 40,
     "timeWeek": 124,
     "timeMonth": 109,
-    "timeYear": 164,
+    "timeYear": 163,
     "dailyMinutesDown": {
       "2025-07-03": 22,
       "2025-07-08": 1010,
@@ -342,7 +342,7 @@
     "timeDay": 1129,
     "timeWeek": 712,
     "timeMonth": 707,
-    "timeYear": 800,
+    "timeYear": 801,
     "dailyMinutesDown": {
       "2025-06-12": 49,
       "2025-12-05": 24,
@@ -354,16 +354,16 @@
     "url": "https://msf.org",
     "icon": "https://icons.duckduckgo.com/ip3/msf.org.ico",
     "slug": "medecins-sans-frontieres-doctors-without-borders",
-    "status": "down",
-    "uptime": "34.00%",
-    "uptimeDay": "15.47%",
-    "uptimeWeek": "20.58%",
+    "status": "up",
+    "uptime": "33.94%",
+    "uptimeDay": "0.07%",
+    "uptimeWeek": "18.88%",
     "uptimeMonth": "16.86%",
-    "uptimeYear": "9.34%",
-    "time": 537,
-    "timeDay": 362,
-    "timeWeek": 600,
-    "timeMonth": 536,
+    "uptimeYear": "9.10%",
+    "time": 538,
+    "timeDay": 447,
+    "timeWeek": 609,
+    "timeMonth": 539,
     "timeYear": 379,
     "dailyMinutesDown": {
       "2026-05-06": 1200,
@@ -702,7 +702,7 @@
       "2026-05-24": 1227,
       "2026-05-25": 1209,
       "2026-05-26": 1136,
-      "2026-05-27": 123
+      "2026-05-27": 1419
     }
   },
   {
@@ -789,7 +789,7 @@
     "timeDay": 856,
     "timeWeek": 733,
     "timeMonth": 719,
-    "timeYear": 697,
+    "timeYear": 696,
     "dailyMinutesDown": {
       "2025-06-12": 41
     }
@@ -809,7 +809,7 @@
     "timeDay": 1342,
     "timeWeek": 1371,
     "timeMonth": 2013,
-    "timeYear": 1635,
+    "timeYear": 1637,
     "dailyMinutesDown": {
       "2025-06-15": 124,
       "2025-06-21": 47,
@@ -944,7 +944,7 @@
     "timeDay": 62,
     "timeWeek": 136,
     "timeMonth": 146,
-    "timeYear": 187,
+    "timeYear": 186,
     "dailyMinutesDown": {
       "2025-09-22": 34
     }
@@ -1003,7 +1003,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/blender.org.ico",
     "slug": "blender-foundation",
     "status": "up",
-    "uptime": "76.49%",
+    "uptime": "76.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
@@ -1178,7 +1178,7 @@
     "timeDay": 128,
     "timeWeek": 755,
     "timeMonth": 1310,
-    "timeYear": 1277,
+    "timeYear": 1279,
     "dailyMinutesDown": {
       "2025-06-30": 29,
       "2025-07-08": 100,
@@ -1235,7 +1235,7 @@
     "timeDay": 117,
     "timeWeek": 321,
     "timeMonth": 448,
-    "timeYear": 437,
+    "timeYear": 438,
     "dailyMinutesDown": {
       "2025-07-21": 33,
       "2025-08-02": 21,
@@ -1261,7 +1261,7 @@
     "timeDay": 49,
     "timeWeek": 130,
     "timeMonth": 124,
-    "timeYear": 202,
+    "timeYear": 201,
     "dailyMinutesDown": {
       "2025-06-12": 29,
       "2025-09-12": 24,
@@ -1304,12 +1304,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
+    "uptimeYear": "99.94%",
     "time": 615,
     "timeDay": 459,
     "timeWeek": 322,
     "timeMonth": 514,
-    "timeYear": 651,
+    "timeYear": 652,
     "dailyMinutesDown": {
       "2025-06-06": 27,
       "2025-08-27": 18,
@@ -1337,7 +1337,7 @@
     "timeDay": 764,
     "timeWeek": 734,
     "timeMonth": 728,
-    "timeYear": 1017,
+    "timeYear": 1018,
     "dailyMinutesDown": {
       "2025-10-20": 33,
       "2025-11-10": 22,
@@ -1469,7 +1469,7 @@
     "timeDay": 428,
     "timeWeek": 288,
     "timeMonth": 314,
-    "timeYear": 435,
+    "timeYear": 434,
     "dailyMinutesDown": {}
   },
   {
@@ -1542,16 +1542,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/intgovforum.org.ico",
     "slug": "internet-governance-forum",
     "status": "down",
-    "uptime": "33.25%",
+    "uptime": "33.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "8.34%",
+    "uptimeYear": "8.09%",
     "time": 1383,
     "timeDay": 28,
     "timeWeek": 38,
     "timeMonth": 64,
-    "timeYear": 961,
+    "timeYear": 963,
     "dailyMinutesDown": {
       "2025-05-28": 65,
       "2025-06-05": 67,
@@ -1572,7 +1572,7 @@
       "2025-07-01": 56,
       "2025-07-02": 107,
       "2025-07-03": 265,
-      "2026-05-27": 124,
+      "2026-05-27": 1421,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
