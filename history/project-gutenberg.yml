@@ -1,7 +1,7 @@
 url: https://gutenberg.org
-status: up
-code: 200
-responseTime: 8488
-lastUpdated: 2026-06-24T00:04:12.773Z
+status: down
+code: 504
+responseTime: 11431
+lastUpdated: 2026-06-24T17:30:33.974Z
 startTime: 2025-01-08T12:43:27.900Z
 generator: Upptime <https://github.com/upptime/upptime>
