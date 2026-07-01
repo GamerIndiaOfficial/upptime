@@ -66,15 +66,15 @@
     "slug": "open-library",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "93.59%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "95.22%",
     "uptimeMonth": "98.90%",
     "uptimeYear": "99.35%",
     "time": 1930,
-    "timeDay": 220,
+    "timeDay": 244,
     "timeWeek": 4079,
     "timeMonth": 3424,
-    "timeYear": 1894,
+    "timeYear": 1896,
     "dailyMinutesDown": {
       "2025-08-26": 35,
       "2025-09-10": 29,
@@ -191,7 +191,7 @@
     "timeDay": 328,
     "timeWeek": 401,
     "timeMonth": 332,
-    "timeYear": 561,
+    "timeYear": 560,
     "dailyMinutesDown": {
       "2025-08-18": 16
     }
@@ -258,7 +258,7 @@
     "timeDay": 113,
     "timeWeek": 545,
     "timeMonth": 447,
-    "timeYear": 501,
+    "timeYear": 500,
     "dailyMinutesDown": {}
   },
   {
@@ -323,7 +323,7 @@
     "timeDay": 714,
     "timeWeek": 678,
     "timeMonth": 631,
-    "timeYear": 909,
+    "timeYear": 908,
     "dailyMinutesDown": {
       "2025-08-23": 27,
       "2025-10-27": 30,
@@ -360,15 +360,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/msf.org.ico",
     "slug": "medecins-sans-frontieres-doctors-without-borders",
     "status": "up",
-    "uptime": "32.10%",
-    "uptimeDay": "0.09%",
-    "uptimeWeek": "1.85%",
-    "uptimeMonth": "2.91%",
-    "uptimeYear": "1.74%",
-    "time": 476,
-    "timeDay": 533,
-    "timeWeek": 235,
-    "timeMonth": 178,
+    "uptime": "32.11%",
+    "uptimeDay": "6.67%",
+    "uptimeWeek": "2.79%",
+    "uptimeMonth": "3.13%",
+    "uptimeYear": "1.76%",
+    "time": 474,
+    "timeDay": 440,
+    "timeWeek": 253,
+    "timeMonth": 186,
     "timeYear": 313,
     "dailyMinutesDown": {
       "2026-05-06": 1200,
@@ -735,7 +735,7 @@
       "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
-      "2026-07-01": 1165
+      "2026-07-01": 1333
     }
   },
   {
@@ -753,7 +753,7 @@
     "timeDay": 638,
     "timeWeek": 691,
     "timeMonth": 614,
-    "timeYear": 896,
+    "timeYear": 895,
     "dailyMinutesDown": {
       "2025-12-05": 24,
       "2026-02-26": 37,
@@ -786,7 +786,7 @@
     "timeDay": 493,
     "timeWeek": 651,
     "timeMonth": 574,
-    "timeYear": 653,
+    "timeYear": 652,
     "dailyMinutesDown": {
       "2025-07-03": 83,
       "2025-11-18": 175,
@@ -844,7 +844,7 @@
     "timeDay": 1281,
     "timeWeek": 1455,
     "timeMonth": 2890,
-    "timeYear": 1751,
+    "timeYear": 1753,
     "dailyMinutesDown": {
       "2025-09-23": 33,
       "2025-10-02": 84,
@@ -923,7 +923,7 @@
     "timeDay": 1411,
     "timeWeek": 1075,
     "timeMonth": 835,
-    "timeYear": 1225,
+    "timeYear": 1226,
     "dailyMinutesDown": {
       "2025-07-04": 26,
       "2025-07-08": 937,
@@ -964,7 +964,7 @@
     "timeDay": 793,
     "timeWeek": 929,
     "timeMonth": 996,
-    "timeYear": 1144,
+    "timeYear": 1145,
     "dailyMinutesDown": {
       "2025-07-21": 16,
       "2025-11-07": 26,
@@ -1007,7 +1007,7 @@
     "timeDay": 188,
     "timeWeek": 102,
     "timeMonth": 76,
-    "timeYear": 119,
+    "timeYear": 118,
     "dailyMinutesDown": {}
   },
   {
@@ -1025,7 +1025,7 @@
     "timeDay": 549,
     "timeWeek": 638,
     "timeMonth": 521,
-    "timeYear": 530,
+    "timeYear": 529,
     "dailyMinutesDown": {
       "2025-11-05": 23,
       "2025-12-05": 25,
@@ -1047,7 +1047,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/blender.org.ico",
     "slug": "blender-foundation",
     "status": "up",
-    "uptime": "78.05%",
+    "uptime": "78.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1221,7 +1221,7 @@
     "timeDay": 6937,
     "timeWeek": 9283,
     "timeMonth": 6103,
-    "timeYear": 1625,
+    "timeYear": 1628,
     "dailyMinutesDown": {
       "2025-07-08": 100,
       "2025-07-09": 88,
@@ -1278,7 +1278,7 @@
     "timeDay": 735,
     "timeWeek": 501,
     "timeMonth": 382,
-    "timeYear": 441,
+    "timeYear": 440,
     "dailyMinutesDown": {
       "2025-07-21": 33,
       "2025-08-02": 21,
@@ -1351,7 +1351,7 @@
     "timeDay": 523,
     "timeWeek": 393,
     "timeMonth": 3163,
-    "timeYear": 1001,
+    "timeYear": 1000,
     "dailyMinutesDown": {
       "2025-08-27": 18,
       "2025-09-17": 15,
@@ -1387,7 +1387,7 @@
     "timeDay": 860,
     "timeWeek": 781,
     "timeMonth": 760,
-    "timeYear": 1000,
+    "timeYear": 999,
     "dailyMinutesDown": {
       "2025-10-20": 33,
       "2025-11-10": 22,
@@ -1447,7 +1447,7 @@
     "timeDay": 271,
     "timeWeek": 424,
     "timeMonth": 374,
-    "timeYear": 427,
+    "timeYear": 426,
     "dailyMinutesDown": {}
   },
   {
@@ -1537,7 +1537,7 @@
     "timeDay": 306,
     "timeWeek": 460,
     "timeMonth": 425,
-    "timeYear": 440,
+    "timeYear": 439,
     "dailyMinutesDown": {
       "2025-09-22": 17
     }
@@ -1578,7 +1578,7 @@
     "timeDay": 1114,
     "timeWeek": 867,
     "timeMonth": 818,
-    "timeYear": 804,
+    "timeYear": 803,
     "dailyMinutesDown": {
       "2025-07-14": 54,
       "2025-09-29": 34,
@@ -1592,17 +1592,17 @@
     "url": "https://intgovforum.org",
     "icon": "https://icons.duckduckgo.com/ip3/intgovforum.org.ico",
     "slug": "internet-governance-forum",
-    "status": "down",
-    "uptime": "31.09%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "1.09%",
-    "uptimeMonth": "2.12%",
-    "uptimeYear": "0.77%",
-    "time": 886,
-    "timeDay": 36,
-    "timeWeek": 138,
-    "timeMonth": 77,
-    "timeYear": 371,
+    "status": "up",
+    "uptime": "31.08%",
+    "uptimeDay": "0.12%",
+    "uptimeWeek": "1.11%",
+    "uptimeMonth": "2.13%",
+    "uptimeYear": "0.72%",
+    "time": 885,
+    "timeDay": 180,
+    "timeWeek": 157,
+    "timeMonth": 84,
+    "timeYear": 350,
     "dailyMinutesDown": {
       "2025-07-02": 107,
       "2025-07-03": 265,
@@ -1967,7 +1967,7 @@
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
-      "2026-07-01": 1167,
+      "2026-07-01": 1428,
       "2026-06-30": 1440
     }
   }
