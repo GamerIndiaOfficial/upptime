@@ -359,17 +359,17 @@
     "url": "https://msf.org",
     "icon": "https://icons.duckduckgo.com/ip3/msf.org.ico",
     "slug": "medecins-sans-frontieres-doctors-without-borders",
-    "status": "up",
-    "uptime": "32.12%",
-    "uptimeDay": "26.33%",
-    "uptimeWeek": "5.60%",
-    "uptimeMonth": "3.78%",
-    "uptimeYear": "1.81%",
-    "time": 474,
-    "timeDay": 642,
-    "timeWeek": 401,
-    "timeMonth": 246,
-    "timeYear": 317,
+    "status": "down",
+    "uptime": "32.14%",
+    "uptimeDay": "43.17%",
+    "uptimeWeek": "8.00%",
+    "uptimeMonth": "4.33%",
+    "uptimeYear": "1.86%",
+    "time": 472,
+    "timeDay": 574,
+    "timeWeek": 379,
+    "timeMonth": 241,
+    "timeYear": 316,
     "dailyMinutesDown": {
       "2026-05-06": 1200,
       "2026-05-05": 1440,
@@ -735,7 +735,7 @@
       "2026-06-07": 1440,
       "2026-06-06": 1440,
       "2026-07-01": 1333,
-      "2026-07-02": 516
+      "2026-07-02": 517
     }
   },
   {
@@ -744,7 +744,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/amnesty.org.ico",
     "slug": "amnesty-international",
     "status": "up",
-    "uptime": "98.72%",
+    "uptime": "98.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "87.73%",
@@ -1047,7 +1047,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/blender.org.ico",
     "slug": "blender-foundation",
     "status": "up",
-    "uptime": "78.08%",
+    "uptime": "78.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1594,11 +1594,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/intgovforum.org.ico",
     "slug": "internet-governance-forum",
     "status": "down",
-    "uptime": "31.05%",
+    "uptime": "31.04%",
     "uptimeDay": "1.95%",
     "uptimeWeek": "1.37%",
     "uptimeMonth": "2.19%",
-    "uptimeYear": "0.60%",
+    "uptimeYear": "0.55%",
     "time": 882,
     "timeDay": 184,
     "timeWeek": 159,
@@ -1969,7 +1969,7 @@
       "2026-06-25": 1440,
       "2026-07-01": 1428,
       "2026-06-30": 1440,
-      "2026-07-02": 773
+      "2026-07-02": 1016
     }
   }
 ]
