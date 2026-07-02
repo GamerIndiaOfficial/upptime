@@ -359,17 +359,17 @@
     "url": "https://msf.org",
     "icon": "https://icons.duckduckgo.com/ip3/msf.org.ico",
     "slug": "medecins-sans-frontieres-doctors-without-borders",
-    "status": "up",
-    "uptime": "32.11%",
-    "uptimeDay": "15.26%",
-    "uptimeWeek": "4.02%",
-    "uptimeMonth": "3.41%",
-    "uptimeYear": "1.78%",
-    "time": 474,
-    "timeDay": 614,
-    "timeWeek": 354,
-    "timeMonth": 223,
-    "timeYear": 315,
+    "status": "down",
+    "uptime": "32.12%",
+    "uptimeDay": "26.25%",
+    "uptimeWeek": "5.59%",
+    "uptimeMonth": "3.77%",
+    "uptimeYear": "1.81%",
+    "time": 473,
+    "timeDay": 537,
+    "timeWeek": 336,
+    "timeMonth": 220,
+    "timeYear": 314,
     "dailyMinutesDown": {
       "2026-05-06": 1200,
       "2026-05-05": 1440,
@@ -735,7 +735,7 @@
       "2026-06-07": 1440,
       "2026-06-06": 1440,
       "2026-07-01": 1333,
-      "2026-07-02": 403
+      "2026-07-02": 404
     }
   },
   {
@@ -1047,7 +1047,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/blender.org.ico",
     "slug": "blender-foundation",
     "status": "up",
-    "uptime": "78.07%",
+    "uptime": "78.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1594,11 +1594,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/intgovforum.org.ico",
     "slug": "internet-governance-forum",
     "status": "down",
-    "uptime": "31.06%",
+    "uptime": "31.05%",
     "uptimeDay": "1.95%",
     "uptimeWeek": "1.37%",
     "uptimeMonth": "2.19%",
-    "uptimeYear": "0.65%",
+    "uptimeYear": "0.62%",
     "time": 882,
     "timeDay": 184,
     "timeWeek": 159,
@@ -1969,7 +1969,7 @@
       "2026-06-25": 1440,
       "2026-07-01": 1428,
       "2026-06-30": 1440,
-      "2026-07-02": 500
+      "2026-07-02": 660
     }
   }
 ]
