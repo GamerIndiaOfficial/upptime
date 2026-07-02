@@ -359,17 +359,17 @@
     "url": "https://msf.org",
     "icon": "https://icons.duckduckgo.com/ip3/msf.org.ico",
     "slug": "medecins-sans-frontieres-doctors-without-borders",
-    "status": "down",
+    "status": "up",
     "uptime": "32.12%",
-    "uptimeDay": "26.25%",
-    "uptimeWeek": "5.59%",
-    "uptimeMonth": "3.77%",
+    "uptimeDay": "26.33%",
+    "uptimeWeek": "5.60%",
+    "uptimeMonth": "3.78%",
     "uptimeYear": "1.81%",
-    "time": 473,
-    "timeDay": 537,
-    "timeWeek": 336,
-    "timeMonth": 220,
-    "timeYear": 314,
+    "time": 474,
+    "timeDay": 642,
+    "timeWeek": 401,
+    "timeMonth": 246,
+    "timeYear": 317,
     "dailyMinutesDown": {
       "2026-05-06": 1200,
       "2026-05-05": 1440,
@@ -735,7 +735,7 @@
       "2026-06-07": 1440,
       "2026-06-06": 1440,
       "2026-07-01": 1333,
-      "2026-07-02": 404
+      "2026-07-02": 516
     }
   },
   {
@@ -1598,7 +1598,7 @@
     "uptimeDay": "1.95%",
     "uptimeWeek": "1.37%",
     "uptimeMonth": "2.19%",
-    "uptimeYear": "0.62%",
+    "uptimeYear": "0.60%",
     "time": 882,
     "timeDay": 184,
     "timeWeek": 159,
@@ -1969,7 +1969,7 @@
       "2026-06-25": 1440,
       "2026-07-01": 1428,
       "2026-06-30": 1440,
-      "2026-07-02": 660
+      "2026-07-02": 773
     }
   }
 ]
