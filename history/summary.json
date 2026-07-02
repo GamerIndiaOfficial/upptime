@@ -359,17 +359,17 @@
     "url": "https://msf.org",
     "icon": "https://icons.duckduckgo.com/ip3/msf.org.ico",
     "slug": "medecins-sans-frontieres-doctors-without-borders",
-    "status": "down",
+    "status": "up",
     "uptime": "32.11%",
-    "uptimeDay": "15.19%",
-    "uptimeWeek": "4.01%",
+    "uptimeDay": "15.26%",
+    "uptimeWeek": "4.02%",
     "uptimeMonth": "3.41%",
     "uptimeYear": "1.78%",
     "time": 474,
-    "timeDay": 607,
-    "timeWeek": 332,
-    "timeMonth": 213,
-    "timeYear": 314,
+    "timeDay": 614,
+    "timeWeek": 354,
+    "timeMonth": 223,
+    "timeYear": 315,
     "dailyMinutesDown": {
       "2026-05-06": 1200,
       "2026-05-05": 1440,
@@ -735,7 +735,7 @@
       "2026-06-07": 1440,
       "2026-06-06": 1440,
       "2026-07-01": 1333,
-      "2026-07-02": 235
+      "2026-07-02": 403
     }
   },
   {
@@ -835,7 +835,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/internetsociety.org.ico",
     "slug": "internet-society",
     "status": "up",
-    "uptime": "97.76%",
+    "uptime": "97.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "69.43%",
@@ -1212,7 +1212,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gutenberg.org.ico",
     "slug": "project-gutenberg",
     "status": "up",
-    "uptime": "99.57%",
+    "uptime": "99.58%",
     "uptimeDay": "84.12%",
     "uptimeWeek": "97.73%",
     "uptimeMonth": "99.25%",
@@ -1594,16 +1594,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/intgovforum.org.ico",
     "slug": "internet-governance-forum",
     "status": "down",
-    "uptime": "31.07%",
+    "uptime": "31.06%",
     "uptimeDay": "1.95%",
     "uptimeWeek": "1.37%",
     "uptimeMonth": "2.19%",
-    "uptimeYear": "0.68%",
+    "uptimeYear": "0.65%",
     "time": 882,
     "timeDay": 184,
     "timeWeek": 159,
     "timeMonth": 85,
-    "timeYear": 205,
+    "timeYear": 193,
     "dailyMinutesDown": {
       "2025-07-03": 265,
       "2026-06-24": 1226,
@@ -1969,7 +1969,7 @@
       "2026-06-25": 1440,
       "2026-07-01": 1428,
       "2026-06-30": 1440,
-      "2026-07-02": 331
+      "2026-07-02": 500
     }
   }
 ]
