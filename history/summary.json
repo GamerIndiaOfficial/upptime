@@ -360,7 +360,7 @@
     "slug": "medecins-sans-frontieres-doctors-without-borders",
     "status": "down",
     "uptime": "32.12%",
-    "uptimeDay": "30.11%",
+    "uptimeDay": "29.46%",
     "uptimeWeek": "8.00%",
     "uptimeMonth": "4.33%",
     "uptimeYear": "1.86%",
@@ -734,7 +734,7 @@
       "2026-06-06": 1440,
       "2026-07-01": 1333,
       "2026-07-02": 926,
-      "2026-07-03": 80
+      "2026-07-03": 90
     }
   },
   {
@@ -1209,10 +1209,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/gutenberg.org.ico",
     "slug": "project-gutenberg",
     "status": "down",
-    "uptime": "99.58%",
-    "uptimeDay": "84.02%",
-    "uptimeWeek": "97.72%",
-    "uptimeMonth": "99.24%",
+    "uptime": "99.57%",
+    "uptimeDay": "83.38%",
+    "uptimeWeek": "97.63%",
+    "uptimeMonth": "99.22%",
     "uptimeYear": "99.54%",
     "time": 1492,
     "timeDay": 9768,
@@ -1259,7 +1259,7 @@
       "2026-04-30": 91,
       "2026-06-24": 102,
       "2026-07-02": 229,
-      "2026-07-03": 1
+      "2026-07-03": 11
     }
   },
   {
@@ -1595,7 +1595,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "1.37%",
     "uptimeMonth": "2.19%",
-    "uptimeYear": "0.46%",
+    "uptimeYear": "0.45%",
     "time": 880,
     "timeDay": 22,
     "timeWeek": 157,
@@ -1965,7 +1965,7 @@
       "2026-06-25": 1440,
       "2026-07-01": 1428,
       "2026-06-30": 1440,
-      "2026-07-03": 81,
+      "2026-07-03": 91,
       "2026-07-02": 1424
     }
   }
