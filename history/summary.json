@@ -729,7 +729,7 @@
       "2026-07-09": 1423,
       "2026-07-15": 1326,
       "2026-07-14": 1440,
-      "2026-07-16": 65
+      "2026-07-16": 78
     }
   },
   {
@@ -1043,7 +1043,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "68.93%",
+    "uptimeYear": "68.94%",
     "time": 1169,
     "timeDay": 887,
     "timeWeek": 954,
@@ -1578,9 +1578,9 @@
     "slug": "internet-governance-forum",
     "status": "up",
     "uptime": "30.37%",
-    "uptimeDay": "0.12%",
-    "uptimeWeek": "0.97%",
-    "uptimeMonth": "3.54%",
+    "uptimeDay": "1.06%",
+    "uptimeWeek": "1.11%",
+    "uptimeMonth": "3.57%",
     "uptimeYear": "0.18%",
     "time": 822,
     "timeDay": 230,
