@@ -359,13 +359,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/msf.org.ico",
     "slug": "medecins-sans-frontieres-doctors-without-borders",
     "status": "down",
-    "uptime": "31.19%",
-    "uptimeDay": "5.95%",
+    "uptime": "31.17%",
+    "uptimeDay": "0.00%",
     "uptimeWeek": "2.34%",
     "uptimeMonth": "6.24%",
     "uptimeYear": "2.11%",
     "time": 427,
-    "timeDay": 232,
+    "timeDay": 14,
     "timeWeek": 254,
     "timeMonth": 326,
     "timeYear": 320,
@@ -734,7 +734,7 @@
       "2026-07-22": 1354,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
-      "2026-07-23": 86
+      "2026-07-23": 778
     }
   },
   {
@@ -1042,7 +1042,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/blender.org.ico",
     "slug": "blender-foundation",
     "status": "up",
-    "uptime": "78.88%",
+    "uptime": "78.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1321,7 +1321,7 @@
     "uptime": "98.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.11%",
+    "uptimeMonth": "96.69%",
     "uptimeYear": "98.00%",
     "time": 892,
     "timeDay": 365,
@@ -1567,17 +1567,17 @@
     "url": "https://intgovforum.org",
     "icon": "https://icons.duckduckgo.com/ip3/intgovforum.org.ico",
     "slug": "internet-governance-forum",
-    "status": "down",
-    "uptime": "30.06%",
-    "uptimeDay": "10.46%",
-    "uptimeWeek": "5.55%",
+    "status": "up",
+    "uptime": "30.03%",
+    "uptimeDay": "0.14%",
+    "uptimeWeek": "3.88%",
     "uptimeMonth": "4.87%",
     "uptimeYear": "0.29%",
     "time": 741,
-    "timeDay": 452,
-    "timeWeek": 188,
+    "timeDay": 400,
+    "timeWeek": 241,
     "timeMonth": 794,
-    "timeYear": 265,
+    "timeYear": 266,
     "dailyMinutesDown": {
       "2026-06-24": 1226,
       "2026-06-23": 1440,
@@ -1943,7 +1943,7 @@
       "2026-07-17": 1440,
       "2026-07-22": 1289,
       "2026-07-21": 1440,
-      "2026-07-23": 87
+      "2026-07-23": 777
     }
   }
 ]
