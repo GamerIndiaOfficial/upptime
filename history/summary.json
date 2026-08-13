@@ -253,20 +253,20 @@
     "url": "https://npr.org",
     "icon": "https://icons.duckduckgo.com/ip3/npr.org.ico",
     "slug": "npr",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "36.21%",
-    "uptimeWeek": "90.89%",
-    "uptimeMonth": "97.90%",
-    "uptimeYear": "99.83%",
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "29.02%",
+    "uptimeWeek": "89.86%",
+    "uptimeMonth": "97.67%",
+    "uptimeYear": "99.81%",
     "time": 503,
-    "timeDay": 359,
-    "timeWeek": 366,
-    "timeMonth": 399,
+    "timeDay": 363,
+    "timeWeek": 368,
+    "timeMonth": 400,
     "timeYear": 487,
     "dailyMinutesDown": {
       "2026-08-12": 485,
-      "2026-08-13": 433
+      "2026-08-13": 537
     }
   },
   {
@@ -369,7 +369,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "64.72%",
-    "uptimeYear": "7.57%",
+    "uptimeYear": "7.59%",
     "time": 431,
     "timeDay": 833,
     "timeWeek": 1154,
@@ -1031,7 +1031,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "72.40%",
+    "uptimeYear": "72.42%",
     "time": 1158,
     "timeDay": 499,
     "timeWeek": 981,
@@ -1918,7 +1918,7 @@
       "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
-      "2026-08-13": 588,
+      "2026-08-13": 693,
       "2026-08-12": 1440,
       "2026-08-11": 1440
     }
