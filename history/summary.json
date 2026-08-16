@@ -24,11 +24,11 @@
     "url": "https://archive.org",
     "icon": "https://icons.duckduckgo.com/ip3/archive.org.ico",
     "slug": "internet-archive",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "94.22%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.16%",
+    "uptimeDay": "93.83%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.14%",
     "uptimeYear": "99.62%",
     "time": 407,
     "timeDay": 180,
@@ -61,7 +61,7 @@
       "2026-05-13": 175,
       "2026-07-18": 54,
       "2026-07-19": 232,
-      "2026-08-16": 83
+      "2026-08-16": 89
     }
   },
   {
@@ -70,10 +70,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/openlibrary.org.ico",
     "slug": "open-library",
     "status": "down",
-    "uptime": "99.48%",
-    "uptimeDay": "90.17%",
-    "uptimeWeek": "96.33%",
-    "uptimeMonth": "99.16%",
+    "uptime": "99.47%",
+    "uptimeDay": "89.25%",
+    "uptimeWeek": "96.20%",
+    "uptimeMonth": "99.13%",
     "uptimeYear": "99.28%",
     "time": 2021,
     "timeDay": 3479,
@@ -120,7 +120,7 @@
       "2026-06-30": 92,
       "2026-08-14": 162,
       "2026-08-15": 67,
-      "2026-08-16": 141
+      "2026-08-16": 155
     }
   },
   {
@@ -369,10 +369,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/msf.org.ico",
     "slug": "medecins-sans-frontieres-doctors-without-borders",
     "status": "up",
-    "uptime": "33.87%",
+    "uptime": "33.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "75.72%",
+    "uptimeMonth": "75.75%",
     "uptimeYear": "8.54%",
     "time": 434,
     "timeDay": 1075,
@@ -1912,7 +1912,7 @@
       "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
-      "2026-08-16": 1319,
+      "2026-08-16": 1332,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
