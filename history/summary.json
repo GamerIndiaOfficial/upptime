@@ -24,16 +24,16 @@
     "url": "https://archive.org",
     "icon": "https://icons.duckduckgo.com/ip3/archive.org.ico",
     "slug": "internet-archive",
-    "status": "down",
+    "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.33%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.30%",
     "uptimeYear": "99.63%",
     "time": 407,
-    "timeDay": 295,
-    "timeWeek": 215,
-    "timeMonth": 226,
+    "timeDay": 254,
+    "timeWeek": 214,
+    "timeMonth": 225,
     "timeYear": 372,
     "dailyMinutesDown": {
       "2025-09-10": 60,
@@ -61,7 +61,7 @@
       "2026-05-13": 175,
       "2026-07-18": 54,
       "2026-07-19": 232,
-      "2026-08-16": 6
+      "2026-08-16": 19
     }
   },
   {
@@ -71,12 +71,12 @@
     "slug": "open-library",
     "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "94.76%",
-    "uptimeWeek": "97.41%",
-    "uptimeMonth": "99.40%",
+    "uptimeDay": "94.64%",
+    "uptimeWeek": "97.22%",
+    "uptimeMonth": "99.36%",
     "uptimeYear": "99.30%",
     "time": 2021,
-    "timeDay": 7017,
+    "timeDay": 2956,
     "timeWeek": 6414,
     "timeMonth": 2949,
     "timeYear": 2067,
@@ -120,7 +120,7 @@
       "2026-06-30": 92,
       "2026-08-14": 162,
       "2026-08-15": 67,
-      "2026-08-16": 33
+      "2026-08-16": 51
     }
   },
   {
@@ -372,8 +372,8 @@
     "uptime": "33.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "75.47%",
-    "uptimeYear": "8.51%",
+    "uptimeMonth": "75.52%",
+    "uptimeYear": "8.52%",
     "time": 434,
     "timeDay": 1075,
     "timeWeek": 1356,
@@ -1912,7 +1912,7 @@
       "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
-      "2026-08-16": 1211,
+      "2026-08-16": 1229,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
