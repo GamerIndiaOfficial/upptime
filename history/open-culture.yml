@@ -1,7 +1,7 @@
 url: https://openculture.com
-status: down
-code: 504
-responseTime: 30402
-lastUpdated: 2026-09-15T10:03:49.129Z
+status: up
+code: 200
+responseTime: 748
+lastUpdated: 2026-09-15T14:50:58.673Z
 startTime: 2025-01-08T12:43:28.426Z
 generator: Upptime <https://github.com/upptime/upptime>
